@@ -1,5 +1,3 @@
-![ProxmoxVE_PHP_API](https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Proxmox-VE-logo.svg/600px-Proxmox-VE-logo.svg.png)
-
 # ProxmoxVE PHP API
 
 ## Table of Contents
